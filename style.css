@@ -1,0 +1,16 @@
+#btn
+{
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+#btn:hover
+{
+    background-color: rgb(127, 127, 199);
+}
+.hide-me{
+    display: none;
+}
